@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookCollapseSection: true
-title: "章节1"
+title: "思考与学习"
 ---
 
-# 章节
+# 思考与学习
