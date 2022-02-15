@@ -1,4 +1,4 @@
-baseURL = 'https://zhangguixu.github.io/'
+baseURL = 'https://zhangguixu.github.io/blog'
 languageCode = 'zh-hans'
 title = 'Zhangguixu Blog'
 publishDir = 'docs'
