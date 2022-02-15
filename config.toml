@@ -2,3 +2,4 @@ baseURL = 'https://zhangguixu.github.io/'
 languageCode = 'zh-hans'
 title = 'Zhangguixu Blog'
 publishDir = 'docs'
+theme = "hugo-book"

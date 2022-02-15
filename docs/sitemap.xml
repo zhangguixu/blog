@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhangguixu.github.io/docs/example/</loc>
+    <loc>https://zhangguixu.github.io/docs/chapter-1/</loc>
   </url><url>
-    <loc>https://zhangguixu.github.io/docs/example/other/</loc>
+    <loc>https://zhangguixu.github.io/docs/chaper-2/</loc>
   </url><url>
     <loc>https://zhangguixu.github.io/categories/</loc>
   </url><url>
@@ -13,5 +13,9 @@
     <loc>https://zhangguixu.github.io/tags/</loc>
   </url><url>
     <loc>https://zhangguixu.github.io/</loc>
+  </url><url>
+    <loc>https://zhangguixu.github.io/docs/chapter-1/chapter-1/</loc>
+  </url><url>
+    <loc>https://zhangguixu.github.io/docs/chaper-2/chapter-1/</loc>
   </url>
 </urlset>
