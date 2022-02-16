@@ -1,6 +1,6 @@
 {
-  "name": "Zhangguixu Blog",
-  "short_name": "Zhangguixu Blog",
+  "name": "Zhangguixu 学习博客",
+  "short_name": "Zhangguixu 学习博客",
   "start_url": "/blog/",
   "scope": "/blog/",
   "display": "standalone",

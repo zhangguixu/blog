@@ -1,5 +1,15 @@
 baseURL = 'https://zhangguixu.github.io/blog'
 languageCode = 'zh-hans'
-title = 'Zhangguixu Blog'
+title = 'Zhangguixu 学习博客'
 publishDir = 'docs'
 theme = "hugo-book"
+enableGitInfo = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[params]
+  BookRepo = 'https://github.com/zhangguixu/blog'
+  BookDateFormat = 'January 2, 2006'
+  BookServiceWorker = true
+  BookCommitPath = 'commit'
