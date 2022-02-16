@@ -10,6 +10,6 @@ enableGitInfo = true
 
 [params]
   BookRepo = 'https://github.com/zhangguixu/blog'
-  BookDateFormat = 'January 2, 2006'
+  BookDateFormat = '2006-01-02 15:04:02'
   BookServiceWorker = true
   BookCommitPath = 'commit'
