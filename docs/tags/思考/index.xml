@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zhangguixu blogs</title>
-    <link>https://zhangguixu.github.io/blog/</link>
-    <description>Recent content on zhangguixu blogs</description>
+    <title>思考 on zhangguixu blogs</title>
+    <link>https://zhangguixu.github.io/blog/tags/%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 思考 on zhangguixu blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zhangguixu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zhangguixu.github.io/blog/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>掌握高效学习方法</title>
       <link>https://zhangguixu.github.io/blog/posts/how-to-learn/</link>
@@ -27,17 +27,6 @@
       <guid>https://zhangguixu.github.io/blog/posts/think-learn-express/</guid>
       <description>三者之间的关系：
  学习  不断学习新的知识，扩充自己的视野：见多识广，融会贯通 学习如何思考：正确的思考，不断修正自己的思维模式 学习如何提升学习效率（人的认知是有一定的规律，掌握一定的方法，可以大大提升效率） 学习如何表达，表达是有一定的技巧，同时需要良好思维支撑   思考  经过思考与梳理，将其知识纳入到自己体系中 思辨，独立思考   表达  表达形式不局限于口头，文字，视频 检验学习效果的方式就是能够向他人清晰表达出所学习的东西（也叫做输出） 良好的表达能力，能够体现你的职业素养    </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://zhangguixu.github.io/blog/about/</link>
-      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
-      
-      <guid>https://zhangguixu.github.io/blog/about/</guid>
-      <description>工科男，做过前端，目前是一名后台程序员👨🏻‍💻
-希望自己保持思考，保持输出
-前端时期的博客：前端之旅</description>
     </item>
     
   </channel>
