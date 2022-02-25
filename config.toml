@@ -47,6 +47,10 @@ weight = 4
   tagsOverview = true
   tocInline = true
   dateFormat = "2006-01-02"
+  showAllPostsArchive = true
+
+  [params.comments]
+    enabled = false
 
   [[params.social]]
     name = "github"
@@ -55,3 +59,4 @@ weight = 4
   [[params.social]]
     name = "email"
     link = "1447905210@qq.com"
+  
