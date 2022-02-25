@@ -1,15 +1,56 @@
 baseURL = 'https://zhangguixu.github.io/blog'
 languageCode = 'zh-hans'
-title = 'Zhangguixu 学习博客'
-publishDir = 'docs'
-theme = "hugo-book"
-enableGitInfo = true
+title = 'zhangguixu blogs'
+theme = "cactus"
+googleAnalytics = "G-NTVS48TC3H"
 
-[markup.tableOfContents]
-  startLevel = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
 
 [params]
-  BookRepo = 'https://github.com/zhangguixu/blog'
-  BookDateFormat = '2006-01-02 15:04:02'
-  BookServiceWorker = true
-  BookCommitPath = 'commit'
+  description = "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous."
+  mainSection = "posts"
+  tagsOverview = true
+  tocInline = true
+  dateFormat = "2006-01-02"
+
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/zhangguixu"
+
+  [[params.social]]
+    name = "email"
+    link = "1447905210@qq.com"
