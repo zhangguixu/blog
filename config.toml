@@ -3,6 +3,7 @@ languageCode = 'zh-hans'
 title = 'zhangguixu blogs'
 theme = "cactus"
 googleAnalytics = "G-NTVS48TC3H"
+publishDir = "docs"
 
 [[menu.main]]
 name = "Home"
