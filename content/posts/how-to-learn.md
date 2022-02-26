@@ -1,5 +1,5 @@
 ---
-title: 掌握高效学习方法
+title: 【思考系列】高效学习方法
 date: 2022-02-25
 category: thinking
 tags:

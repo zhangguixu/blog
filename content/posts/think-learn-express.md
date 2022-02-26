@@ -1,5 +1,5 @@
 ---
-title: 最重要的三项能力：思考，表达，学习
+title: 【思考系列】最重要的三项能力：思考，表达，学习
 date: 2022-02-25
 category: thinking
 tags:
